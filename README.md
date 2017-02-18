@@ -1,5 +1,5 @@
 # Hacker News Client
-Building a dark-theme Hacker News client in React + Redux
+A dark-theme Hacker News client in React + Redux using Google's Material Design
 
 ## How to install?
 In order to install the app, you must first grab the code from the repository. Make sure you start out Once you switch to 

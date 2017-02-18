@@ -69,6 +69,10 @@ Desktop.ini
 *.tar
 *.zip
 
+# Project Files #
+############
+TODO.md
+
 # Runtime data #
 ######################
 pids
