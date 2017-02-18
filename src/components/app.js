@@ -4,11 +4,11 @@ class app extends Component {
 
   render() {
     return (
-      <div className="App">
-        <div className="App-header">
+      <div>
+        <div>
           <h2>Dark HN Client</h2>
         </div>
-        <div className="content">
+        <div>
           {this.props.children}
         </div>
       </div>
