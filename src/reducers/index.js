@@ -1,10 +1,10 @@
 import { combineReducers } from 'redux';
-import { routeReducer as router } from 'react-router-redux';
+import { routerReducer } from 'react-router-redux';
 import { firebaseStateReducer as firebase } from 'react-redux-firebase';
 
 const rootReducer = combineReducers({
   firebase,
-  router
+  routing: routerReducer
 });
 
 export default rootReducer;
